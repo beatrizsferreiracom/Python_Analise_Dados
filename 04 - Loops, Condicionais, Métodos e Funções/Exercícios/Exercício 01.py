@@ -1,4 +1,4 @@
-#Calculadora em Python
+#Lab 2 - Calculadora em Python
 
 #Desenvolva uma calculadora em Python com tudo que você aprendeu nos capítulos até aqui no curso.
 
