@@ -1,3 +1,5 @@
+#Lab 2 - Usando o ChatGPT
+
 #GPT - Gere código Python que crie uma lista com os números entre 1 e 100 
 #e então imprime os números pares, mas somente se o número for divisível por 4
 
